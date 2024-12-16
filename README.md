@@ -1,4 +1,4 @@
-# DAM4-PI4-Biogenesys
+# DAM4-PI4-Expansión Estratégica de Biogenesys con Python
 
 Este estudio estuvo orientado a identificar las ubicaciones óptimas para la expansión de laboratorios y centros de vacunación, apoyando decisiones estratégicas basadas en análisis de datos.
 
